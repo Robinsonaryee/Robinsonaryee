@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Robinson Aryee Welcome to my GitHub!
 
-<!--
-**Robinsonaryee/Robinsonaryee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner frontend developer focused on mastering **HTML** and **CSS**. I'm currently learning by building real-world projects and sharing everything I build right here.
 
-Here are some ideas to get you started:
+### 🚀 What I’m Working On
+- **MoneyBuddy** – A personal finance landing page to help people build daily saving habits
+- Daily improvements through my self-paced **HTML/CSS practice challenges**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m Learning
+- Responsive web layouts with HTML & CSS
+- How to write clean, semantic code
+- How to build projects step by step from idea to website
+
+### 📌 Projects You Can Check Out
+- [MoneyBuddy Landing Page](https://yourusername.github.io/moneybuddy-landing/) *(in progress)*
+- [HTML/CSS Mini Challenges](#) *(coming soon)*
+
+### 📫 Let’s Connect
+- Email: aryee.robinson@gamil.com
+- Portfolio (coming soon)
+- Twitter/LinkedIn/GitHub: [optional links]
+
+---
+
+#### Thanks for visiting! I'm open to collaboration, feedback, and learning in public.
