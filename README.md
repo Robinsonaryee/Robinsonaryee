@@ -16,7 +16,7 @@ I'm a beginner frontend developer focused on mastering **HTML** and **CSS**. I'm
 - [HTML/CSS Mini Challenges](#) *(coming soon)*
 
 ### 📫 Let’s Connect
-- Email: aryee.robinson@gamil.com
+- Email: aryee.robinson@gmail.com
 - Portfolio (coming soon)
 - Twitter/LinkedIn/GitHub: [optional links]
 
